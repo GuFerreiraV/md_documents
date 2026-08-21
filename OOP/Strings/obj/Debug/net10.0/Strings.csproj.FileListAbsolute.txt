@@ -1,0 +1,14 @@
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/obj/Debug/net10.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/obj/Debug/net10.0/Strings.AssemblyInfoInputs.cache
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/obj/Debug/net10.0/Strings.AssemblyInfo.cs
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/obj/Debug/net10.0/Strings.csproj.CoreCompileInputs.cache
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/bin/Debug/net10.0/Strings
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/bin/Debug/net10.0/Strings.deps.json
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/bin/Debug/net10.0/Strings.runtimeconfig.json
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/bin/Debug/net10.0/Strings.dll
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/bin/Debug/net10.0/Strings.pdb
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/obj/Debug/net10.0/Strings.dll
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/obj/Debug/net10.0/refint/Strings.dll
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/obj/Debug/net10.0/Strings.pdb
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/obj/Debug/net10.0/Strings.genruntimeconfig.cache
+/home/ferreira/Projetos/roadmap-fullstack-dotnet/OOP/Strings/obj/Debug/net10.0/ref/Strings.dll
